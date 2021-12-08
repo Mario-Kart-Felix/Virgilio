@@ -48,7 +48,7 @@ In this third case, instead, we hypothesize the internal construction of a Machi
 We must assume that the company in question has at its disposal the history of all the calls received, divided into the individual steps made by the operator; with them, we must be able to build a chain of events that have led to a final solution.
 
 
-Having a large number of these chains at our disposal, we **train a model** according to Machiene Learning algorithms; it is necessary to have specific competence at this point to understand which is the most suitable algorithm and the calibration of the parameters necessary to obtain the best result. It is often at this point that the best intentions collapse; it is not enough to feed the data to any model, it is necessary to identify and calibrate the right model.
+Having a large number of these chains at our disposal, we **train a model** according to Machine Learning algorithms; it is necessary to have specific competence at this point to understand which is the most suitable algorithm and the calibration of the parameters necessary to obtain the best result. It is often at this point that the best intentions collapse; it is not enough to feed the data to any model, it is necessary to identify and calibrate the right model.
 
 Once the model has been trained, it is made available to the call center; once the call has been received and the first step has been taken, we will probably already have the next step available; after the second step, the probability of 'guessing' the next step will be even higher, and so on, optimizing the process.
 
@@ -77,13 +77,13 @@ Let's see explore now the use cases more in-depth.
 
 ## Use cases examples
 
-As we argued, it is essential to have a framework of things you can do nowadays with certain tools, and understand if it is convenient in terms of ROI for a company (you manager, I talk to you)
+As we argued, it is essential to have a framework of things you can do nowadays with certain tools, and understand if it is convenient in terms of ROI for a company ("you manager, I talk to you").
 
 We here at Virgilio are pleased to tell you that we are in close collaboration with [Firm.ai](https://github.com/firmai), a spectacular OpenSource project that tries to solve the problem of providing an overview of all possible use cases, divided by industry.
 
 [**In this project**](https://github.com/firmai/industry-machine-learning), you can find a wide variety of applied use cases, with code! What an incredible resource!
 
-I recommend, leave a star to the Firm.ai project and follow it, it's a work in progress that will be continuously updated.
+Leave a star to the Firm.ai project and follow it, it's a work in progress that will be continuously updated.
 
 Don't you find what you're looking for in the previous link? Try [here](https://appliedai.com/). You can enter the business you are looking for, and also see which companies provide services that might be useful to you!
 
